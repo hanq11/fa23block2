@@ -8,19 +8,15 @@ int main() {
     scanf("%c", &dapAn);
     switch(dapAn) {
         case 'a':
-            printf("Đáp án sai");
-            break;
-        case 'b':
-            printf("Đáp án sai");
-            break;
-        case 'c':
-            printf("Đáp án đúng");
-            break;
-        case 'd':    
-            printf("Đáp án sai");
-            break;
+            printf("1");
         default:
-            printf("Vui lòng chọn lại đáp án");
+            printf("5");
+        case 'b':
+            printf("2");
+        case 'c':
+            printf("3");
+        case 'd':    
+            printf("4");
             break;
     }
 }
