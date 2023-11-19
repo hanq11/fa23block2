@@ -1,0 +1,3 @@
+1. Tạo một chương trình có menu bằng switch case, chương trình có 2 chức năng (4 điểm):
+Chức năng 1: Cho phép nhập vào bán kính hình tròn, in ra chu vi = 2 * 3.14 * bán kính(3 điểm)
+Chức năng 2: Cho phép nhập vào 2 số min và max, tính tổng các số lẻ từ min đến max và in (3 điểm)
