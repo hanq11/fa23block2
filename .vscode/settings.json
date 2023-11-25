@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "GoTo.C": "cpp"
+        "GoTo.C": "cpp",
+        "stdio.h": "c",
+        "cstdio": "c",
+        "math.h": "c"
     }
 }
