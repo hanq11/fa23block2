@@ -14,10 +14,16 @@ int main() {
     scanf("%f", &x);
     // Đặt i = 0 vì sau khi chạy 1 vòng for, i = 5
     i = 0;
+    int flag = 0;
     while(i < 5) {
         if(x == mangFloat[i]) {
             printf("X có xuất hiện trong mảng");
+            flag = 1;
+            break;
         }
         i++;
+    }
+    if(flag == 0) {
+        printf("X không xuất hiện");
     }
 }
