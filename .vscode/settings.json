@@ -3,6 +3,7 @@
         "GoTo.C": "cpp",
         "stdio.h": "c",
         "cstdio": "c",
-        "math.h": "c"
+        "math.h": "c",
+        "string.h": "c"
     }
 }

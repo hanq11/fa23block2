@@ -1,0 +1,4 @@
++ Tạo menu có các mục sau, chỉ dừng lại khi người dùng nhập 0: (2)
+1. Nhập tên và tuổi: nhập tên và tuổi từ bàn phím, sau đó in ra màn hình (4)
+2. Thống kê lương: tạo một mảng lương có chứa n phần tử, trong đó n được nhập từ bàn phím, in ra vị trí của các giá trị lương nhỏ hơn 50 (4)
+3. thoát chương trình

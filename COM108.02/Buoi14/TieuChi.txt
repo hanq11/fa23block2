@@ -1,0 +1,12 @@
+Tiêu chí đạt: 
+Hiểu về kiểu dữ liệu, biến. 
+Sử dụng được if/else - switch/case 
+Sử dụng được vòng lặp for, while, do while
+Nhập xuất cơ bản với chuỗi 
+Tiêu chí khá: 
+Có các yêu cầu mức đạt. 
+Sử dụng được mảng (mảng 1 chiều). 
+Sử dụng được hàm 
+Tiêu chí tốt: 
+Có các yêu cầu mức khá. 
+Xây dựng được hàm có tham số.
